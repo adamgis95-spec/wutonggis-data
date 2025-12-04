@@ -1,0 +1,92 @@
+﻿[
+  {
+    "id": 1,
+    "name": "全球基础地理shp",
+    "category": "GIS基础数据",
+    "tags": ["矢量", "交通", "全球"],
+    "thumbnail": "linear-gradient(135deg,#1c6dd0,#5ad0ff)",
+    "desc": "包含全球主要道路，河流，行政边界。",
+    "docUrl": "https://example.com/doc/road",
+    "downloadUrl": "https://pan.baidu.com/s/1voGXpo7KzC3aozDcxfU3sw?pwd=n8fn"
+  },
+  {
+    "id": 2,
+    "name": "中国标准行政区划数据GS（2024）0650号",
+    "category": "GIS基础数据",
+    "tags": ["边界", "统计区划"],
+    "thumbnail": "linear-gradient(135deg,#0ec099,#9cf0d7)",
+    "desc": "省/市/县多级行政区边界，含代码与名称字段。",
+    "docUrl": "https://example.com/doc/admin",
+    "downloadUrl": "https://pan.baidu.com/s/1dlIEKn_OSpKOOEUgeFDdSw?pwd=i3x6"
+  },
+  {
+    "id": 3,
+    "name": "2024 春季遥感镶嵌",
+    "category": "遥感产品",
+    "tags": ["光学", "云量控制"],
+    "thumbnail": "linear-gradient(135deg,#ff8f70,#ff3d54)",
+    "desc": "云量小于5%的全国范围镶嵌影像，30m 分辨率。",
+    "docUrl": "https://example.com/doc/rs2024",
+    "downloadUrl": "https://example.com/download/rs2024"
+  },
+  {
+    "id": 4,
+    "name": "洪涝水体监测",
+    "category": "遥感产品",
+    "tags": ["水体", "灾害监测"],
+    "thumbnail": "linear-gradient(135deg,#4facfe,#00f2fe)",
+    "desc": "基于多时相遥感提取水体变化，支持近实时更新。",
+    "docUrl": "https://example.com/doc/flood",
+    "downloadUrl": "https://example.com/download/flood"
+  },
+  {
+    "id": 5,
+    "name": "教学示例：POI 热力",
+    "category": "教学示例数据",
+    "tags": ["教学", "POI", "热力"],
+    "thumbnail": "linear-gradient(135deg,#845ef7,#5ae9f6)",
+    "desc": "示例数据集与配置，演示城市 POI 热力可视化。",
+    "docUrl": "https://example.com/doc/poi",
+    "downloadUrl": "https://example.com/download/poi"
+  },
+  {
+    "id": 6,
+    "name": "教学示例：路径规划",
+    "category": "教学示例数据",
+    "tags": ["路径", "算法"],
+    "thumbnail": "linear-gradient(135deg,#ffb347,#ffcc33)",
+    "desc": "含路网与起终点样本，用于演示最短路径算法。",
+    "docUrl": "https://example.com/doc/route",
+    "downloadUrl": "https://example.com/download/route"
+  },
+  {
+    "id": 7,
+    "name": "全国地质灾害点分布数据",
+    "category": "专题分析数据",
+    "tags": ["地质灾害", "点位"],
+    "thumbnail": "linear-gradient(135deg,#34e89e,#0f3443)",
+    "desc": "基于遥感提取的地质灾害点分布数据。",
+    "docUrl": "https://example.com/doc/geohazard",
+    "downloadUrl": "https://pan.baidu.com/s/1Zz4O9DPCcaiicguZ_BRYlQ?pwd=ucih"
+  },
+  {
+    "id": 8,
+    "name": "中国传统村落数据（共六批）2022",
+    "category": "社会经济数据",
+    "tags": ["社会", "传统村落"],
+    "thumbnail": "linear-gradient(135deg,#00c6ff,#0072ff)",
+    "desc": "中国传统村落数据，点位数据。",
+    "docUrl": "https://example.com/doc/access",
+    "downloadUrl": "https://pan.baidu.com/s/15mbm_Lu1qqy6a4kFlI4-Jw?pwd=q34f "
+  },
+  {
+    "id": 9,
+    "name": "鄱阳湖1：25万矢量边界数据",
+    "category": "GIS基础数据",
+    "tags": ["矢量", "水文", "鄱阳湖"],
+    "thumbnail": "linear-gradient(135deg,#1c6dd0,#5ad0ff)",
+    "desc": "鄱阳湖的湖区边界数据",
+    "docUrl": "https://mp.weixin.qq.com/s/arNhHzENEaYbgt7yCwstLA",
+    "downloadUrl": "https://pan.baidu.com/s/1Dw_ez979wI1KrBzLdrCqqw?pwd=g3tf"
+  }
+]
