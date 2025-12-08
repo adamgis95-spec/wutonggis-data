@@ -6,7 +6,7 @@
     "tags": ["矢量", "交通", "全球"],
     "thumbnail": "linear-gradient(135deg,#1c6dd0,#5ad0ff)",
     "desc": "包含全球主要道路，河流，行政边界。",
-    "docUrl": "https://example.com/doc/road",
+    "docUrl": "https://mp.weixin.qq.com/s/pOxWHjlzwmihEs4i4ux8EA",
     "downloadUrl": "https://pan.baidu.com/s/1voGXpo7KzC3aozDcxfU3sw?pwd=n8fn"
   },
   {
@@ -21,48 +21,48 @@
   },
   {
     "id": 3,
-    "name": "2024 春季遥感镶嵌",
+    "name": "中国植被覆盖度（FVC）数据集（2000-2022）",
     "category": "遥感产品",
-    "tags": ["光学", "云量控制"],
+    "tags": ["植被", "FVC"],
     "thumbnail": "linear-gradient(135deg,#ff8f70,#ff3d54)",
-    "desc": "云量小于5%的全国范围镶嵌影像，30m 分辨率。",
-    "docUrl": "https://example.com/doc/rs2024",
-    "downloadUrl": "https://example.com/download/rs2024"
+    "desc": "长时序植被覆盖度数据，250m 分辨率。",
+    "docUrl": "https://mp.weixin.qq.com/s/mTbu7TMIoovWKnaw9Xv6iA",
+    "downloadUrl": " https://pan.baidu.com/s/10v84diIMfs5-_RcNl0ItYw?pwd=5tam "
   },
   {
     "id": 4,
-    "name": "洪涝水体监测",
+    "name": "GIMMS NDVI 数据（1982–2022 ）",
     "category": "遥感产品",
-    "tags": ["水体", "灾害监测"],
+    "tags": ["NDVI", "长时序"],
     "thumbnail": "linear-gradient(135deg,#4facfe,#00f2fe)",
-    "desc": "基于多时相遥感提取水体变化，支持近实时更新。",
-    "docUrl": "https://example.com/doc/flood",
-    "downloadUrl": "https://example.com/download/flood"
+    "desc": "全球植被变化研究的经典长时间序列数据集。",
+    "docUrl": "https://mp.weixin.qq.com/s/Ql3kRFqGQPLKDpNbephg1w",
+    "downloadUrl": "https://pan.baidu.com/s/1zWahHzUg65VXQO8RGoGy2A?pwd=itfb "
   },
   {
     "id": 5,
-    "name": "教学示例：POI 热力",
-    "category": "教学示例数据",
-    "tags": ["教学", "POI", "热力"],
+    "name": "福建省POI 数据",
+    "category": "社会经济数据",
+    "tags": ["福建省", "POI", "兴趣点"],
     "thumbnail": "linear-gradient(135deg,#845ef7,#5ae9f6)",
-    "desc": "示例数据集与配置，演示城市 POI 热力可视化。",
-    "docUrl": "https://example.com/doc/poi",
-    "downloadUrl": "https://example.com/download/poi"
+    "desc": "示例数据集与配置，演示城市 POI可视化。",
+    "docUrl": "https://mp.weixin.qq.com/s/peObQ1D45z4XZ2LtkhoNCg",
+    "downloadUrl": "https://pan.baidu.com/s/1WmTlI2cmyor26oFR6crgbQ?pwd=pukr "
   },
   {
     "id": 6,
-    "name": "教学示例：路径规划",
-    "category": "教学示例数据",
-    "tags": ["路径", "算法"],
+    "name": "全球海洋与陆地边界数据",
+    "category": "GIS基础数据",
+    "tags": ["全球", "陆海边界矢量"],
     "thumbnail": "linear-gradient(135deg,#ffb347,#ffcc33)",
-    "desc": "含路网与起终点样本，用于演示最短路径算法。",
-    "docUrl": "https://example.com/doc/route",
-    "downloadUrl": "https://example.com/download/route"
+    "desc": "全球尺度的高质量、统一坐标、数据规范的海陆边界。",
+    "docUrl": "https://mp.weixin.qq.com/s/7lxcnYMie_at3m8Ny6kXCw",
+    "downloadUrl": "https://pan.baidu.com/s/1Vo1iwPIrgDdd2XPbB0sKxw?pwd=ch56 "
   },
   {
     "id": 7,
     "name": "全国地质灾害点分布数据",
-    "category": "专题分析数据",
+    "category": "自然地理数据",
     "tags": ["地质灾害", "点位"],
     "thumbnail": "linear-gradient(135deg,#34e89e,#0f3443)",
     "desc": "基于遥感提取的地质灾害点分布数据。",
@@ -88,5 +88,35 @@
     "desc": "鄱阳湖的湖区边界数据",
     "docUrl": "https://mp.weixin.qq.com/s/arNhHzENEaYbgt7yCwstLA",
     "downloadUrl": "https://pan.baidu.com/s/1Dw_ez979wI1KrBzLdrCqqw?pwd=g3tf"
-  }
+  },
+  {
+    "id": 10,
+    "name": "1984-2020中国1km人造夜间灯光观测数据",
+    "category": "遥感产品",
+    "tags": ["夜光数据", "长时序"],
+    "thumbnail": "linear-gradient(135deg,#00c6ff,#0072ff)",
+    "desc": "长时间序列中国区域边界的夜间灯光观测栅格数据。。",
+    "docUrl": "https://mp.weixin.qq.com/s/YwQFP_5rn6Dqv5h-RWcIUA",
+    "downloadUrl": "https://pan.baidu.com/s/1xjUymD01aYhi_MaFUmRdAA?pwd=u5ji "
+  },
+  {
+    "id": 11,
+    "name": "中国土壤有机质数据集",
+    "category": "自然地理数据",
+    "tags": ["土壤pH", "土壤有机质", "土壤"],
+    "thumbnail": "linear-gradient(135deg,#1c6dd0,#5ad0ff)",
+    "desc": "包含土壤pH、土壤有机质、土壤阳离子交换量，根系丰度等的栅格数据",
+    "docUrl": "https://mp.weixin.qq.com/s/CWQgRZqvyFhgc5XemY7hDQ",
+    "downloadUrl": "https://pan.baidu.com/s/1xc2xRXdtYSf2HpB6ftQ78g?pwd=exhk"
+  },
+  {
+    "id": 12,
+    "name": "中国1km分辨率逐年降水量数据集（1901-2023）",
+    "category": "自然地理数据",
+    "tags": ["降水", "气象", "长时序"],
+    "thumbnail": "linear-gradient(135deg,#1c6dd0,#5ad0ff)",
+    "desc": "长时序的降水栅格数据",
+    "docUrl": "https://example.com/doc/geohazard",
+    "downloadUrl": "https://pan.baidu.com/s/1wNKMZN4kRVm9-o89i7hljQ?pwd=cmqn"
+  } 
 ]
