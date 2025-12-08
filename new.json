@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "type": "热门",
+    "typeClass": "tag-red",
+    "title": "2025年全国大学生GIS应用技能大赛基于SuperMap软件的试题详解（上午题目）",
+    "date": "12-06",
+    "views": "5.9k",
+    "link": "https://mp.weixin.qq.com/s/yyBTYe55BY2FE3Tp_UCNKA"
+  },
+  {
+    "id": 2,
+    "type": "上新",
+    "typeClass": "tag-blue",
+    "title": "【数据分享】福建省城市 POI 数据",
+    "date": "12-08",
+    "views": "2.1k",
+    "link": "https://mp.weixin.qq.com/s/peObQ1D45z4XZ2LtkhoNCg"
+  },
+  {
+    "id": 3,
+    "type": "教程",
+    "typeClass": "tag-orange",
+    "title": "探索Python融合地学：一文教会你下载ERA5-Land数据",
+    "date": "11-20",
+    "views": "3.4k",
+    "link": "https://mp.weixin.qq.com/s/G3GvynoXFP9DH3c-85YpFQ"
+  }
+
+]
