@@ -1,14 +1,5 @@
 [
-  {
-    "id": "2247490415_1",
-    "title": "2025年全国大学生GIS应用技能大赛基于SuperMap软件的试题详解（上午题目）",
-    "desc": "2025年全国大学生GIS应用技能大赛基于SuperMap软件的试题详解（上午题目）",
-    "category": "其他",
-    "date": "2025-12-06",
-    "views": "3.1k",
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/znC4XOVriaoUlldX5vgWRM0zPib9wFUeQhicJWgAKM4wKibzffUYwT8ccZVgakTibpbpsfekS48zpqu3CQJUqGDmv9w/0?wx_fmt=jpeg",
-    "url": "http://mp.weixin.qq.com/s?__biz=Mzg5Njc3MTMyMg==&mid=2247490415&idx=1&sn=f0319ac356a277311795a5ddd68e0576&chksm=c07aaefaf70d27ec046abcd85de5e5423ca023c3c926e965391bd83952c583e2d75c6e104645#rd"
-  },
+
   
   {
     "id": "2247490401_1",
@@ -20,16 +11,7 @@
     "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/znC4XOVriaoU1rCAfoJPILdXA4q1o7ZlSLezjWrZ7jgribmLLIuDia7ZPZSDFBic8QKk2ntickbv4BNLlu74NV2IbFg/0?wx_fmt=jpeg",
     "url": "http://mp.weixin.qq.com/s?__biz=Mzg5Njc3MTMyMg==&mid=2247490401&idx=1&sn=4984ac7d606c35ab9cd047ddd065fa1a&chksm=c07aaef4f70d27e277b81d9ac951d160b580e932e5d24177e354004f9142bc784e6220d689f9#rd"
   },
-  {
-    "id": "2247490390_1",
-    "title": "当空间成为生命安全的变量：从大埔火灾谈 GIS 在消防治理中的必要性",
-    "desc": "在这样一座人口密度全球第二的城市里，火灾不是偶然。大埔火灾揭示的，是高层住宅背后的空间风险，而 GIS 也许能真正改变我们的消防治理方式。",
-    "category": "其他",
-    "date": "2025-11-28",
-    "views": "7.5k",
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/znC4XOVriaoVxAFYzFqL2ExpeWh1rzknzuvSQDdc4FYWXicMswu2icvO2IbebTb0UKRdBOx3kIIAc2bPjgo84yG0Q/0?wx_fmt=jpeg",
-    "url": "http://mp.weixin.qq.com/s?__biz=Mzg5Njc3MTMyMg==&mid=2247490390&idx=1&sn=3c7e2760c867bcd3bfa2409009c5c3e6&chksm=c07aaec3f70d27d563d8c5983ae80a49053fe5d1b988923b87e9cf45c619ad6aa124c93bb7e6#rd"
-  },
+
   {
     "id": "2247490351_1",
     "title": "【小技巧】ArcGIS Pro标注设计",
@@ -1329,5 +1311,6 @@
     "url": "http://mp.weixin.qq.com/s?__biz=Mzg5Njc3MTMyMg==&mid=2247483845&idx=3&sn=6e2061eddca668ae62e7124f00d5fffe&chksm=c07ab450f70d3d462255e9eb620fdaab13847c73012af35646496340b1dc8dae4b9d62ae3b8e#rd"
   }
 ]
+
 
 
