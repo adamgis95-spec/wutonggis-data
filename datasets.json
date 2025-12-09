@@ -118,5 +118,15 @@
     "desc": "长时序的降水栅格数据",
     "docUrl": "https://example.com/doc/geohazard",
     "downloadUrl": "https://pan.baidu.com/s/1wNKMZN4kRVm9-o89i7hljQ?pwd=cmqn"
-  } 
+  },
+  {
+    "id": 13,
+    "name": "1985-2021中国30m分省逐年地表覆盖产品(CLCD)",
+    "category": "自然地理数据",
+    "tags": ["土地利用", "lulc", "长时序"],
+    "thumbnail": "linear-gradient(135deg,#1c6dd0,#5ad0ff)",
+    "desc": "中国30m分省逐年地表覆盖产品",
+    "docUrl": "https://example.com/doc/geohazard",
+    "downloadUrl": " https://pan.baidu.com/s/1rGfnPif2fkX043-t4oeupQ?pwd=93a2 "
+  }
 ]
