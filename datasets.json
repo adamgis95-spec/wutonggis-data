@@ -128,5 +128,45 @@
     "desc": "中国30m分省逐年地表覆盖产品",
     "docUrl": "https://example.com/doc/geohazard",
     "downloadUrl": " https://pan.baidu.com/s/1rGfnPif2fkX043-t4oeupQ?pwd=93a2 "
+  },
+  {
+    "id": 14,
+    "name": "气象绘图软件Panoply软件安装包",
+    "category": "软件资源",
+    "tags": ["气象绘图", "Panoply", "软件"],
+    "thumbnail": "linear-gradient(135deg,#1c6dd0,#5ad0ff)",
+    "desc": "气象绘图软件Panoply",
+    "docUrl": "https://mp.weixin.qq.com/s/Oc-NrORITg5NH9EQSB_rsA?token=1059550199&lang=zh_CN",
+    "downloadUrl": "https://pan.baidu.com/s/1bH5wI38x5ow-DETSSAsxlQ?pwd=hpge"
+  },
+  {
+    "id": 15,
+    "name": "我们为分类而生—eCognition 软件安装包",
+    "category": "软件资源",
+    "tags": ["影像分类", "eCognition", "软件"],
+    "thumbnail": "linear-gradient(135deg,#1c6dd0,#5ad0ff)",
+    "desc": "影像分类软件eCognition",
+    "docUrl": "https://mp.weixin.qq.com/s/i35GMZTT7YFjtdtTWNwCEw?token=1059550199&lang=zh_CN",
+    "downloadUrl": " https://pan.baidu.com/s/1LCzfsJ8MYqsr7M0r_vgBhw?pwd=x96r"
+  },
+  {
+    "id": 16,
+    "name": "山东省POI 数据",
+    "category": "社会经济数据",
+    "tags": ["山东省", "POI", "兴趣点"],
+    "thumbnail": "linear-gradient(135deg,#845ef7,#5ae9f6)",
+    "desc": "示例数据集与配置，演示城市 POI可视化。",
+    "docUrl": "https://example.com/doc/geohazard",
+    "downloadUrl": "https://pan.baidu.com/s/1HCyuw105uzymaetQqP9CHQ?pwd=s349  "
+  },
+   {
+    "id": 17,
+    "name": "全国景区数据",
+    "category": "社会经济数据",
+    "tags": ["全国", "景区", "兴趣点"],
+    "thumbnail": "linear-gradient(135deg,#845ef7,#5ae9f6)",
+    "desc": "全国大范围的景区分布数据",
+    "docUrl": "https://example.com/doc/geohazard",
+    "downloadUrl": "https://pan.baidu.com/s/1PYphfOJd1ebGq-fc7Wr0Ig?pwd=jpkt"
   }
 ]
