@@ -16,8 +16,18 @@
     "tags": ["代码", "senmk", "自动化"],
     "thumbnail": "linear-gradient(135deg,#1c6dd0,#5ad0ff)",
     "desc": "完整代码加示例数据，使用Python一键进行栅格数据Sen+MK长时间序列趋势分析+显著性检验",
-    "docUrl": "https://example.com/doc/geohazard",
+    "docUrl": "https://mp.weixin.qq.com/s/NM9z7AtUlmBSgombip8sOA",
     "downloadUrl": "https://pan.baidu.com/s/1KVRe5Zx74Xkoj2i7S3SOfQ?pwd=cem7 "
+  },
+  {
+    "id": 19,
+    "name": "广东省12.5M分辨率DEM数字高程模型数据",
+    "category": "GIS基础数据",
+    "tags": ["DEM", "数字高程模型", "广东省", "12.5M分辨率"],
+    "thumbnail": "linear-gradient(135deg,#6b8e23,#9acd32)",
+    "desc": "广东省全域12.5M分辨率DEM数字高程模型数据，数据精度高、覆盖范围完整，适用于地形分析、水文模拟、地理建模等各类地理空间研究与应用场景",
+    "docUrl": "https://example.com/doc/guangdong_dem",
+    "downloadUrl": "https://pan.baidu.com/s/1AgsVqRtEHox5TOeCy4jXKQ?pwd=8xqs"
   },
   {
     "id": 2,
