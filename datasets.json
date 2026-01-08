@@ -16,7 +16,7 @@
     "tags": ["栅格", "降水", "中国", "长时间序列", "1KM分辨率"],
     "thumbnail": "linear-gradient(135deg,#4facfe,#00f2fe)",
     "desc": "包含中国区域1980至2022年逐年/逐月1KM分辨率降水栅格数据，数据格式为NC(左下角数据说明提供了将nc数据批量转为tiff的保姆教程，需要的可以直接使用)，覆盖全国范围，可直接用于水文、气象、生态等领域的空间分析。",
-    "docUrl": "",
+    "docUrl": "https://mp.weixin.qq.com/s/GVQKavINWgd7T4SXWCBNBA",
     "downloadUrl": "https://pan.baidu.com/s/1v0m8zO49l9hGLxkSCQODIA?pwd=usuk"
   },
   {
