@@ -1,6 +1,5 @@
 [
 
-  
   {
     "id": "2247490401_1",
     "title": "你的 GIS 数据为什么总喜欢“去南极”？三分钟根治坐标系错位",
@@ -116,16 +115,7 @@
     "cover": "https://mmbiz.qlogo.cn/mmbiz_jpg/icYQsibWJichHic3hKicrvmqic59L7ibNqq9WBuwg1z8Eo4BXgTdzZjVzglQdfiazKDuIqIBiaicdNIZyU6e10MEcRvfO38w/0?wx_fmt=jpeg",
     "url": "http://mp.weixin.qq.com/s?__biz=Mzg5Njc3MTMyMg==&mid=2247489925&idx=1&sn=b8ce7d47348490c9aeaea7f8640c9c96&chksm=c07aac10f70d2506d036f71a9c150378c4e5e77b74eebc87f0fc8c79c3ccc646ce24ec34a59e#rd"
   },
-  {
-    "id": "2247489925_2",
-    "title": "GEE Download Data——气温数据的下载",
-    "desc": "GEE数据下载第二弹！今天我们来分享气温数据的下载。",
-    "category": "GEE",
-    "date": "2025-07-13",
-    "views": "3.3k",
-    "cover": "https://mmbiz.qlogo.cn/sz_mmbiz_jpg/znC4XOVriaoVsqjJ9aT6cow2u358hSEcGDPNLJOmiblh4NupIBcConfgBtzk8Nh8MyM2rPpodlGaJoAa8AZZBRuQ/0?wx_fmt=jpeg",
-    "url": "http://mp.weixin.qq.com/s?__biz=Mzg5Njc3MTMyMg==&mid=2247489925&idx=2&sn=c15f57357aedb25bfbda3eecb75caab4&chksm=c07aac10f70d2506e75b5ad1204fe048fa495d872ff6109a73b71deb46979fa25be538777d64#rd"
-  },
+  
   {
     "id": "2247489923_1",
     "title": "我基于R开发的栅格时序分析工具—GeoTrendR",
@@ -1107,6 +1097,7 @@
   }
 
 ]
+
 
 
 
