@@ -22,7 +22,7 @@
   {
     "id": 1,
     "name": "Python|栅格数据Sen+MK趋势分析+显著性检验",
-    "category": "代码数据",
+    "category": "代码分享",
     "tags": ["代码", "senmk", "自动化"],
     "thumbnail": "linear-gradient(135deg,#1c6dd0,#5ad0ff)",
     "desc": "完整代码加示例数据，使用Python一键进行栅格数据Sen+MK长时间序列趋势分析+显著性检验",
