@@ -2,7 +2,7 @@
   {
     "id": 18,
     "name": "全球基础地理shp",
-    "category": "GIS基础数据",
+    "category": "GIS数据",
     "tags": ["矢量", "交通", "全球"],
     "thumbnail": "linear-gradient(135deg,#1c6dd0,#5ad0ff)",
     "desc": "包含全球主要道路，河流，行政边界。",
@@ -12,7 +12,7 @@
   {
     "id": 20,
     "name": "ChinaMet中国1980-2022年1KM分辨率降水数据",
-    "category": "气象栅格数据",
+    "category": "自然数据",
     "tags": ["栅格", "降水", "中国", "长时间序列", "1KM分辨率"],
     "thumbnail": "linear-gradient(135deg,#4facfe,#00f2fe)",
     "desc": "包含中国区域1980至2022年逐年/逐月1KM分辨率降水栅格数据，数据格式为NC(左下角数据说明提供了将nc数据批量转为tiff的保姆教程，需要的可以直接使用)，覆盖全国范围，可直接用于水文、气象、生态等领域的空间分析。",
@@ -32,7 +32,7 @@
   {
     "id": 19,
     "name": "广东省12.5M分辨率DEM数字高程模型数据",
-    "category": "GIS基础数据",
+    "category": "GIS数据",
     "tags": ["DEM", "数字高程模型", "广东省", "12.5M分辨率"],
     "thumbnail": "linear-gradient(135deg,#6b8e23,#9acd32)",
     "desc": "广东省全域12.5M分辨率DEM数字高程模型数据，数据精度高、覆盖范围完整，适用于地形分析、水文模拟、地理建模等各类地理空间研究与应用场景",
@@ -42,7 +42,7 @@
   {
     "id": 2,
     "name": "中国标准行政区划数据GS（2024）0650号",
-    "category": "GIS基础数据",
+    "category": "GIS数据",
     "tags": ["边界", "统计区划"],
     "thumbnail": "linear-gradient(135deg,#0ec099,#9cf0d7)",
     "desc": "省/市/县多级行政区边界，含代码与名称字段。",
@@ -72,7 +72,7 @@
   {
     "id": 5,
     "name": "福建省POI 数据",
-    "category": "社会经济数据",
+    "category": "人文数据",
     "tags": ["福建省", "POI", "兴趣点"],
     "thumbnail": "linear-gradient(135deg,#845ef7,#5ae9f6)",
     "desc": "示例数据集与配置，演示城市 POI可视化。",
@@ -82,7 +82,7 @@
   {
     "id": 6,
     "name": "全球海洋与陆地边界数据",
-    "category": "GIS基础数据",
+    "category": "GIS数据",
     "tags": ["全球", "陆海边界矢量"],
     "thumbnail": "linear-gradient(135deg,#ffb347,#ffcc33)",
     "desc": "全球尺度的高质量、统一坐标、数据规范的海陆边界。",
@@ -92,7 +92,7 @@
   {
     "id": 7,
     "name": "全国地质灾害点分布数据",
-    "category": "自然地理数据",
+    "category": "自然数据",
     "tags": ["地质灾害", "点位"],
     "thumbnail": "linear-gradient(135deg,#34e89e,#0f3443)",
     "desc": "基于遥感提取的地质灾害点分布数据。",
@@ -102,7 +102,7 @@
   {
     "id": 8,
     "name": "中国传统村落数据（共六批）2022",
-    "category": "社会经济数据",
+    "category": "人文数据",
     "tags": ["社会", "传统村落"],
     "thumbnail": "linear-gradient(135deg,#00c6ff,#0072ff)",
     "desc": "中国传统村落数据，点位数据。",
@@ -112,7 +112,7 @@
   {
     "id": 9,
     "name": "鄱阳湖1：25万矢量边界数据",
-    "category": "GIS基础数据",
+    "category": "GIS数据",
     "tags": ["矢量", "水文", "鄱阳湖"],
     "thumbnail": "linear-gradient(135deg,#1c6dd0,#5ad0ff)",
     "desc": "鄱阳湖的湖区边界数据",
@@ -132,7 +132,7 @@
   {
     "id": 11,
     "name": "中国土壤有机质数据集",
-    "category": "自然地理数据",
+    "category": "自然数据",
     "tags": ["土壤pH", "土壤有机质", "土壤"],
     "thumbnail": "linear-gradient(135deg,#1c6dd0,#5ad0ff)",
     "desc": "包含土壤pH、土壤有机质、土壤阳离子交换量，根系丰度等的栅格数据",
@@ -142,7 +142,7 @@
   {
     "id": 12,
     "name": "中国1km分辨率逐年降水量数据集（1901-2023）",
-    "category": "自然地理数据",
+    "category": "自然数据",
     "tags": ["降水", "气象", "长时序"],
     "thumbnail": "linear-gradient(135deg,#1c6dd0,#5ad0ff)",
     "desc": "长时序的降水栅格数据",
@@ -152,7 +152,7 @@
   {
     "id": 13,
     "name": "1985-2021中国30m分省逐年地表覆盖产品(CLCD)",
-    "category": "自然地理数据",
+    "category": "自然数据",
     "tags": ["土地利用", "lulc", "长时序"],
     "thumbnail": "linear-gradient(135deg,#1c6dd0,#5ad0ff)",
     "desc": "中国30m分省逐年地表覆盖产品",
@@ -182,7 +182,7 @@
   {
     "id": 16,
     "name": "山东省POI 数据",
-    "category": "社会经济数据",
+    "category": "人文数据",
     "tags": ["山东省", "POI", "兴趣点"],
     "thumbnail": "linear-gradient(135deg,#845ef7,#5ae9f6)",
     "desc": "示例数据集与配置，演示城市 POI可视化。",
@@ -192,7 +192,7 @@
    {
     "id": 17,
     "name": "全国景区数据",
-    "category": "社会经济数据",
+    "category": "人文数据",
     "tags": ["全国", "景区", "兴趣点"],
     "thumbnail": "linear-gradient(135deg,#845ef7,#5ae9f6)",
     "desc": "全国大范围的景区分布数据",
