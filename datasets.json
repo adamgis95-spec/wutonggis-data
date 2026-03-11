@@ -1,5 +1,15 @@
 ﻿[
-   {
+    {
+    "id": 23,
+    "name": "ChinaMet中国1980-2022年1KM分辨率平均气温数据",
+    "category": "自然数据",
+    "tags": ["栅格","气温","中国","长时间序列","1KM分辨率"],
+    "thumbnail": "linear-gradient(135deg,#ff7e5f,#feb47b)",
+    "desc": "包含中国区域1980至2022年逐年平均气温（TMPmean）1KM分辨率栅格数据，数据格式为NC（左下角数据说明提供了将NC数据批量转换为TIFF的详细教程，可直接使用），覆盖全国范围，可用于气候变化研究、生态环境分析、水文模拟及农业气候研究等多种空间分析场景。",
+    "docUrl": "https://mp.weixin.qq.com/s/你的文章链接",
+    "downloadUrl": "https://pan.baidu.com/s/1LaIaAc-ZOch9y0sM1vMvOg?pwd=emmb 提取码: emmb "
+   },
+    {
     "id": 22,
     "name": "江西省城市POI数据",
     "category": "人文数据",
